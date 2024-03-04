@@ -1,0 +1,59 @@
+1.Components
+-functional Components
+-class Components
+-JSX Components
+
+2.Props
+-passing Props
+-Default Props
+-Prop Types
+
+3.State
+-use state hook
+-class component state
+-immutable state
+
+4.Lifecycle Methods(Class Components)
+-Component Did Mount
+-Component  Will Unmount
+-Component Did  update
+
+5.Hooks(Functional Components)
+-useState 
+-useEffect
+-useCallback
+-useMemo
+-useContext
+
+6.Event Handling and Forms 
+-Handling events in Components
+-handling form data
+
+7.Conditional Rendering
+-if Statements 
+-Ternary operators
+-Logical && operator
+
+8.Component Composition
+-reusing Components
+-children Props
+
+9.React router
+-< Browse Router>
+-<Route>
+-<Link>
+-Route Parameters
+
+10.High order Components(HOC)
+-Creating HOC
+-Using HOCs for reusability
+
+
+11.State management context API
+-creating context
+-use context hook
+
+12.Redux toolkit
+-actions
+-reducers
+-store
